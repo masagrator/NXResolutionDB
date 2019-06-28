@@ -1,4 +1,4 @@
-| Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [%] |
+| Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [lowest %] |
 | --- | --- | --- | --- |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No |
 | Crash Team Racing | 1280x720 | 854x480 | No |
