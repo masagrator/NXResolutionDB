@@ -1,12 +1,12 @@
 | Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [%] | Source |
 | --- | --- | --- | --- | --- |
-| Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs |
-| Crash Team Racing | 1280x720 | 854x480 | No | exefs |
+| Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
+| Crash Team Racing | 1280x720 | 854x480 | No | exefs 1.0.3 |
 | Final Fantasy XII | 1536x864 | 1024x576 | No | Digital Foundry |
-| Mages of Mystralia | 1920x1080 | 1280x720 | ? | exefs |
-| Octopath Traveler | 1280x720 | 1024x576 | No | .ini files |
-| Yoshi's Crafted World | 1280x720 | 854x480 | Yes (80%) | .ini files |
-| Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs |
+| Mages of Mystralia | 1920x1080 | 1280x720 | ? | exefs 1.0.1 |
+| Octopath Traveler | 1280x720 | 1024x576 | No | .ini files 1.0.2 |
+| Yoshi's Crafted World | 1280x720 | 854x480 | Yes (80%) | .ini files 1.0.0 |
+| Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
 
 >[%] - the lowest value for dynamic downscaling
 >
