@@ -19,7 +19,7 @@
 | Yoshi's Crafted World | 1280x720 | 854x480 | Yes (80%) | .ini files 1.0.0 |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
 
->[%] - the lowest value for dynamic downscaling
+>[%] - the lowest percentage of specified resolution
 >
 >exefs - executable files
 >
