@@ -1,5 +1,5 @@
 | Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [%] | Source |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs |
 | Crash Team Racing | 1280x720 | 854x480 | No | exefs |
 | Octopath Traveler | 1280x720 | 1024x576 | No | .ini files |
