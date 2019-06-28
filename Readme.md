@@ -3,6 +3,7 @@
 | Banner Saga 3 | 1920x1080 | 1280x720 | ? | exefs |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
 | Crash Team Racing | 1280x720 | 854x480 | No | exefs 1.0.3 |
+| Final Fantasy IX | 1920x1080 | 1280x720 | No | exefs |
 | Final Fantasy X/X-2 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Final Fantasy XII | 1536x864 | 1024x576 | No | Digital Foundry |
 | Irony Curtian: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
