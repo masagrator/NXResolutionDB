@@ -11,6 +11,9 @@
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
 
 >[%] - the lowest value for dynamic downscaling
+>
 >exefs - executable files
+>
 >D: - Docked
+>
 >H: - Handheld
