@@ -7,6 +7,6 @@
 | Yoshi's Crafted World | 1280x720 | 854x480 | Yes (80%) | .ini files |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs |
 
-[%] - the lowest value for dynamic downscaling
-exefs - executable files
-Digital Foundry - channel pixel counting resolution
+```[%] - the lowest value for dynamic downscaling
+
+exefs - executable files```
