@@ -3,7 +3,7 @@
 | Banner Saga 3 | 1920x1080 | 1280x720 | ? | exefs |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
 | Crash Team Racing | 1280x720 | 854x480 | No | exefs 1.0.3 |
-| Final Fantasy X | 1920x1080 | 1280x720 | No | Digital Foundry |
+| Final Fantasy X/X-2 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Final Fantasy XII | 1536x864 | 1024x576 | No | Digital Foundry |
 | Mages of Mystralia | 1920x1080 | 1280x720 | ? | exefs 1.0.1 |
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | exefs 1.1.0 |
