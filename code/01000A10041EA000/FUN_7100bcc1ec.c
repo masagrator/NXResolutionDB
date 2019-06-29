@@ -1,35 +1,3 @@
-
-/* WARNING: Removing unreachable block (ram,0x007100bce258) */
-/* WARNING: Removing unreachable block (ram,0x007100bcdff0) */
-/* WARNING: Removing unreachable block (ram,0x007100bcdd7c) */
-/* WARNING: Removing unreachable block (ram,0x007100bcdb10) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd8a4) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd630) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd3bc) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd144) */
-/* WARNING: Removing unreachable block (ram,0x007100bcced0) */
-/* WARNING: Removing unreachable block (ram,0x007100bccc4c) */
-/* WARNING: Removing unreachable block (ram,0x007100bcc9b8) */
-/* WARNING: Removing unreachable block (ram,0x007100bcc754) */
-/* WARNING: Removing unreachable block (ram,0x007100bcc4f8) */
-/* WARNING: Removing unreachable block (ram,0x007100bcc2d0) */
-/* WARNING: Removing unreachable block (ram,0x007100bcc3c4) */
-/* WARNING: Removing unreachable block (ram,0x007100bcc628) */
-/* WARNING: Removing unreachable block (ram,0x007100bcc884) */
-/* WARNING: Removing unreachable block (ram,0x007100bccaf4) */
-/* WARNING: Removing unreachable block (ram,0x007100bccd98) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd008) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd280) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd4f8) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd768) */
-/* WARNING: Removing unreachable block (ram,0x007100bcd9dc) */
-/* WARNING: Removing unreachable block (ram,0x007100bcdc44) */
-/* WARNING: Removing unreachable block (ram,0x007100bcdeb8) */
-/* WARNING: Removing unreachable block (ram,0x007100bce124) */
-/* WARNING: Removing unreachable block (ram,0x007100bce38c) */
-/* WARNING: Removing unreachable block (ram,0x007100bce4c0) */
-/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
-
 void FUN_7100bcc1ec(void)
 
 {
