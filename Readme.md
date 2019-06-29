@@ -48,7 +48,7 @@
 | Yooka-Laylee | 1600x900 | 1120x630 | No | Digital Foundry |
 | Yoshi's Crafted World | 1280x720 | 854x480 | Yes (80%) | .ini files 1.0.0 |
 
->[%] - the lowest percentage of specified resolution
+>[%] - the lowest percentage of specified resolution (U:, D:) or dimension (W:, H:)
 >
 >exefs - executable files
 >
