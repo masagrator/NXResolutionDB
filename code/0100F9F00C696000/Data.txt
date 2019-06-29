@@ -1,0 +1,23 @@
+                             DAT_7103e34ca0                                  XREF[4]:     initialize:710008822c(R), 
+                                                                                          setGameRenderer:7100201234(R), 
+                                                                                          setGameRenderer:71002012ac(R), 
+                                                                                          setGameRenderer:71002014d8(R)  
+      7103e34ca0 00 00 a0 44     undefined4 44A00000h
+                             DAT_7103e354d0                                  XREF[5]:     updateLightweightScreenOpen:7100
+                                                                                          initialize:7100088234(R), 
+                                                                                          setGameRenderer:710020123c(R), 
+                                                                                          setGameRenderer:71002012b4(R), 
+                                                                                          setGameRenderer:71002014e0(R)  
+      7103e354d0 00 00 34 44     undefined4 44340000h
+                             DAT_7103e355f4                                  XREF[4]:     setGameRenderer:7100201244(R), 
+                                                                                          setGameRenderer:71002012bc(R), 
+                                                                                          setGameRenderer:71002014e8(R), 
+                                                                                          setGameRenderer:7100201858(R)  
+      7103e355f4 00 80 55 44     undefined4 44558000h
+
+                             DAT_7103e35208                                  XREF[5]:     setGameRenderer:710020124c(R), 
+                                                                                          setGameRenderer:71002012c4(R), 
+                                                                                          setGameRenderer:71002014f0(R), 
+                                                                                          setGameRenderer:7100201860(R), 
+                                                                                          activate:71016acd74(R)  
+      7103e35208 00 00 f0 43     undefined4 43F00000h
