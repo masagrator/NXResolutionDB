@@ -7,6 +7,7 @@
 | Bayonetta 2 | 1280x720 | 1280x720 | No | Digital Foundry |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
 | Crash Team Racing | 1280x720 | 854x480 | No | exefs 1.0.3 |
+| Darksiders: Warmastered Edition | 1920x1080x30/1440x810x60 | 1280x720x30/960x540x60 | No | Digital Foundry |
 | Final Fantasy IX | 1920x1080 | 1280x720 | No | exefs |
 | Final Fantasy X/X-2 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Final Fantasy XII | 1536x864 | 1024x576 | No | Digital Foundry |
