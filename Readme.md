@@ -42,7 +42,6 @@
 | Saints Row 3 | 1920x1080 | 1280x720 | No | exefs |
 | Super Bomberman R | 1280x720 | 960x540 | No | Digital Foundry |
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
-| Super Mario Party | 1920x1080 | 1280x720 | ? | exefs |
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
 | The Legend of Zelda: Breath of the Wild | 1600x900 | 1280x720 | Yes (90%) | Digital Foundry |
 | The Elder Scrolls V: Skyrim | 1600x900 | 1280x720 | Yes (W:70%) | [Skyrim.ini + exefs 1.1.14.534571](code/01000A10041EA000) |
