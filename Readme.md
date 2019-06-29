@@ -1,6 +1,6 @@
 | Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [%] | Source |
 | --- | --- | --- | --- | --- |
-| 1-2 Switch | 1920x1080 | 1280x720 | Yes (H:66.6%) | exefs |
+| 1-2 Switch | 1920x1080 | 1280x720 | Yes (U:66.6%) | exefs |
 | Assassin's Creed 3 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Banner Saga 3 | 1920x1080 | 1280x720 | ? | exefs |
 | Bayonetta | 1280x720 | 1280x720 | No | Digital Foundry |
@@ -41,7 +41,7 @@
 | Shakedown Hawaii | 1920x1080 | 1280x720 | ? | exefs |
 | Super Bomberman R | 1280x720 | 960x540 | No | Digital Foundry |
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
-| Super Mario Party | 1920x1080 | 1280x720 | Yes (D:66,6%, H:75%) | exefs |
+| Super Mario Party | 1920x1080 | 1280x720 | Yes (D:66,6%, U:75%) | exefs |
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
 | WWE 2K18 | 1280x720 | ? | Yes (D:75%) | Digital Foundry |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
@@ -54,7 +54,7 @@
 >
 >D: - Docked
 >
->H: - Handheld
+>U: - Handheld
 >
 >W: - Width
 >
