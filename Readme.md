@@ -42,7 +42,7 @@
 | Shakedown Hawaii | 1920x1080 | 1280x720 | ? | exefs |
 | Super Bomberman R | 1280x720 | 960x540 | No | Digital Foundry |
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
-| Super Mario Party | 1920x1080 | 1280x720 | Yes (D:66,6%, U:75%) | exefs |
+| Super Mario Party | 1920x1080 | 1280x720 | ? | exefs |
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
 | The Elder Scrolls V: Skyrim | 1600x900 | 1280x720 | Yes | Skyrim.ini |
 | Wolfenstein 2: The New Colossus | 1280x720 | 1280x720 | Yes (50%) | exefs |
