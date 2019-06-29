@@ -47,7 +47,7 @@
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
 | The Legend of Zelda: Breath of the Wild | 1600x900 | 1280x720 | Yes (90%) | Digital Foundry |
 | The Elder Scrolls V: Skyrim | 1600x900 | 1280x720 | Yes | Skyrim.ini |
-| Wolfenstein 2: The New Colossus | 1280x720 | 1280x720 | Yes (50%) | [exefs 1.0.2](code/01009040091E0000)|
+| Wolfenstein 2: The New Colossus | 1280x720 | 1280x720 | Yes (50%) | [exefs 1.2](code/01009040091E0000)|
 | WWE 2K18 | 1280x720 | ? | Yes (D:75%) | Digital Foundry |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
 | Yooka-Laylee | 1600x900 | 1120x630 | No | Digital Foundry |
