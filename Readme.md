@@ -2,6 +2,7 @@
 | --- | --- | --- | --- | --- |
 | 1-2 Switch | 1920x1080 | 1280x720 | Yes (H:66.6%) | exefs |
 | Banner Saga 3 | 1920x1080 | 1280x720 | ? | exefs |
+| Bayonetta | 1280x720 | 1280x720 | No | Digital Foundry |
 | Bayonetta 2 | 1280x720 | 1280x720 | No | Digital Foundry |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
 | Crash Team Racing | 1280x720 | 854x480 | No | exefs 1.0.3 |
