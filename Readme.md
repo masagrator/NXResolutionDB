@@ -4,7 +4,7 @@
 | Aqua Moto Racing Utopia | 1920x1080 | 1280x720 | ? | exefs |
 | Assassin's Creed 3 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Banner Saga 3 | 1920x1080 | 1280x720 | ? | exefs |
-| Bastion | 1600x900 | 1280x720 | ? | exefs(code/010038600B27E000/FUN_7100015230.c) |
+| Bastion | 1600x900 | 1280x720 | ? | [exefs](code/010038600B27E000/FUN_7100015230.c) |
 | Bayonetta | 1280x720 | 1280x720 | No | Digital Foundry |
 | Bayonetta 2 | 1280x720 | 1280x720 | No | Digital Foundry |
 | Captain Toad: Treasure Tracker | 1920x1080 | 1280x720 | ? | Digital Foundry |
