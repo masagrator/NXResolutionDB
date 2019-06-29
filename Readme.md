@@ -1,6 +1,6 @@
 | Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [%] | Source |
 | --- | --- | --- | --- | --- |
-| 1-2 Switch | 1920x1080 | 1280x720 | ? | exefs |
+| 1-2 Switch | 1920x1080 | 1280x720 | ? | [exefs](code/01000320000CC000/FUN_710021F234.c) |
 | Aqua Moto Racing Utopia | 1920x1080 | 1280x720 | ? | exefs |
 | Assassin's Creed 3 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Banner Saga 3 | 1920x1080 | 1280x720 | ? | exefs |
