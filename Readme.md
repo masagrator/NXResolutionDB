@@ -38,7 +38,6 @@
 | Shakedown Hawaii | 1920x1080 | 1280x720 | ? | exefs |
 | Super Bomberman R | 1280x720 | 960x540 | No | Digital Foundry |
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
-| Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Super Mario Party | 1920x1080 | 1280x720 | Yes (D:66,6%, H:75%) | exefs |
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
 | WWE 2K18 | 1280x720 | ? | Yes (D:75%) | Digital Foundry |
