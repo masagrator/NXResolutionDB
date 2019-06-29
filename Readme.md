@@ -1,6 +1,7 @@
 | Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [%] | Source |
 | --- | --- | --- | --- | --- |
 | 1-2 Switch | 1920x1080 | 1280x720 | Yes (H:66.6%) | exefs |
+| Assassin's Creed 3 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Banner Saga 3 | 1920x1080 | 1280x720 | ? | exefs |
 | Bayonetta | 1280x720 | 1280x720 | No | Digital Foundry |
 | Bayonetta 2 | 1280x720 | 1280x720 | No | Digital Foundry |
