@@ -10,7 +10,7 @@
 | Captain Toad: Treasure Tracker | 1920x1080 | 1280x720 | ? | Digital Foundry |
 | Cities Skylines | 1920x1080 | 1280x720 | ? | exefs 1.0.0.32395 |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
-| Crash Team Racing: Nitro-Fueled | 1280x720 | 854x480 | No | exefs 1.0.3 |
+| Crash Team Racing: Nitro-Fueled | 1280x720 Split:640x360 | 854x480 Split:320x180 | No | [exefs 1.0.3](code/0100F9F00C696000/setGameRenderer.c) |
 | Dark Souls | 1920x1080 | 1280x720 | Yes (D:83.3%) | Digital Foundry |
 | Donkey Kong Country: Tropical Freeze | 1920x1080 | 1152x648 | No | Digital Foundry |
 | Darksiders: Warmastered Edition | 1920x1080x30 1440x810x60 | 1280x720x30 960x540x60 | No | Digital Foundry |
