@@ -43,12 +43,13 @@
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Super Mario Party | 1920x1080 | 1280x720 | Yes (D:66,6%, U:75%) | exefs |
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
+| Wolfenstein 2: The New Colossus | 1280x720 | 1280x720 | Yes (50%) | exefs |
 | WWE 2K18 | 1280x720 | ? | Yes (D:75%) | Digital Foundry |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
 | Yooka-Laylee | 1600x900 | 1120x630 | No | Digital Foundry |
 | Yoshi's Crafted World | 1280x720 | 854x480 | Yes (80%) | .ini files 1.0.0 |
 
->[%] - the lowest percentage of specified resolution (U:, D:) or dimension (W:, H:)
+>[%] - the lowest percentage of specified dimensions
 >
 >exefs - executable files
 >
