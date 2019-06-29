@@ -6,6 +6,7 @@
 | Bayonetta | 1280x720 | 1280x720 | No | Digital Foundry |
 | Bayonetta 2 | 1280x720 | 1280x720 | No | Digital Foundry |
 | Captain Toad: Treasure Tracker | 1920x1080 | 1280x720 | ? | Digital Foundry |
+| Cities Skylines | 1920x1080 | 1280x720 | ? | exefs 1.0.0 |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
 | Crash Team Racing: Nitro-Fueled | 1280x720 | 854x480 | No | exefs 1.0.3 |
 | Dark Souls | 1920x1080 | 1280x720 | Yes (D:83.3%) | Digital Foundry |
