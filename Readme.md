@@ -18,7 +18,7 @@
 | I Am Setsuna | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Inside | 1920x1080 | 1280x720 | ? | exefs |
 | Irony Curtain: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
-| LA Noire | 1920x1080 | 1280x720 | Yes (D:H:W:75%) | Digital Foundry |
+| LA Noire | 1920x1080 | 1280x720 | Yes (W:75%) | Digital Foundry |
 | Lego City Undercover | 1920x1080 | ? | No | Digital Foundry |
 | Mages of Mystralia | 1920x1080 | 1280x720 | ? | exefs 1.0.1 |
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
