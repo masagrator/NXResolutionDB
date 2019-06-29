@@ -11,7 +11,7 @@
 | Final Fantasy X/X-2 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Final Fantasy XII | 1536x864 | 1024x576 | No | Digital Foundry |
 | Inside | 1920x1080 | 1280x720 | ? | exefs |
-| Irony Curtian: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
+| Irony Curtain: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
 | Mages of Mystralia | 1920x1080 | 1280x720 | ? | exefs 1.0.1 |
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | exefs 1.1.0 |
