@@ -16,6 +16,8 @@
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | exefs 1.1.0 |
 | Octopath Traveler | 1280x720 | 1024x576 | No | .ini files 1.0.2 |
+| Resident Evil | 1920x1080 | 1280x720 | No | Digital Foundry |
+| Resident Evil 0 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Saints Row 3 | 1920x1080 | 1280x720 | No | exefs |
 | Shakedown Hawaii | 1920x1080 | 1280x720 | ? | exefs |
 | Super Mario Party | 1920x1080 | 1280x720 | Yes (D:66,6%, H:75%) | exefs |
