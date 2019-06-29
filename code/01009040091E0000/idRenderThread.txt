@@ -1,0 +1,93 @@
+                             **************************************************************
+                             * vtable for idRenderThread                                  *
+                             **************************************************************
+                             _ZTV14idRenderThread                            XREF[2]:     Entry Point(*), 71054bdca8(*)  
+                             idRenderThread::vtable
+      7104c4ef68 00              ??         00h
+      7104c4ef69 00              ??         00h
+      7104c4ef6a 00              ??         00h
+      7104c4ef6b 00              ??         00h
+      7104c4ef6c 00              ??         00h
+      7104c4ef6d 00              ??         00h
+      7104c4ef6e 00              ??         00h
+      7104c4ef6f 00              ??         00h
+      7104c4ef70 20 f5 c4        addr       idRenderThread::typeinfo                         = 7106aa70e0
+                 04 71 00 
+                 00 00
+                             PTR_~idRenderThread_7104c4ef78                  XREF[2]:     idRenderThread:71005ec2b8(*), 
+                                                                                          ~idRenderThread:7100612cd4(*)  
+      7104c4ef78 b4 2c 61        addr       idRenderThread::~idRenderThread
+                 00 71 00 
+                 00 00
+      7104c4ef80 14 2e 61        addr       idRenderThread::~idRenderThread
+                 00 71 00 
+                 00 00
+      7104c4ef88 94 e9 5e        addr       idRenderThread::Run
+                 00 71 00 
+                 00 00
+                             resolutionHistory                               XREF[7]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef958(R), 
+                                                                                          UpdateAll:71005ef96c(R), 
+                                                                                          UpdateAll:71005efa9c(W), 
+                                                                                          SetCurrentResolution:710060c8f8(
+                                                                                          SetCurrentResolution:710060c90c(
+                                                                                          71054afe28(*)  
+      7104c4ef90 00              ??         00h
+      7104c4ef91 00              ??         00h
+      7104c4ef92 80              ??         80h
+      7104c4ef93 3f              ??         3Fh    ?
+      7104c4ef94 00              ??         00h
+      7104c4ef95 00              ??         00h
+      7104c4ef96 80              ??         80h
+      7104c4ef97 3f              ??         3Fh    ?
+                             resolutionScaleEnabled                          XREF[4]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef884(R), 
+                                                                                          Update:710060c568(R), 
+                                                                                          7105488b20(*)  
+      7104c4ef98 01              undefined1 01h
+                             canUpdate                                       XREF[4]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef8e4(R), 
+                                                                                          UpdateAll:71005efc84(W), 
+                                                                                          71054c2f18(*)  
+      7104c4ef99 01              undefined1 01h
+      7104c4ef9a 00              ??         00h
+      7104c4ef9b 00              ??         00h
+                             maxResX                                         XREF[6]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef8e8(W), 
+                                                                                          Update:710060c53c(R), 
+                                                                                          Update:710060c5f8(R), 
+                                                                                          Update:710060c6c0(R), 
+                                                                                          71054b8820(*)  
+      7104c4ef9c 00 00 80 3f     undefined4 3F800000h
+                             maxResY                                         XREF[5]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef8f0(W), 
+                                                                                          Update:710060c54c(R), 
+                                                                                          Update:710060c6c8(R), 
+                                                                                          7105495188(*)  
+      7104c4efa0 00 00 80 3f     undefined4 3F800000h
+                             minResX                                         XREF[4]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef89c(W), 
+                                                                                          Update:710060c888(R), 
+                                                                                          710549ffb0(*)  
+      7104c4efa4 00 00 00 3f     undefined4 3F000000h
+                             minResY                                         XREF[4]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef8c0(W), 
+                                                                                          Update:710060c6c8(R), 
+                                                                                          7105496238(*)  
+      7104c4efa8 00 00 00 3f     undefined4 3F000000h
+                             maxRes                                          XREF[5]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef8f8(W), 
+                                                                                          Update:710060c614(R), 
+                                                                                          SetCurrentResolution:710060c988(
+                                                                                          71054989e0(*)  
+      7104c4efac 00 00 80 3f     undefined4 3F800000h
+                             minRes                                          XREF[5]:     Entry Point(*), 
+                                                                                          UpdateAll:71005ef8f4(W), 
+                                                                                          Update:710060c870(R), 
+                                                                                          SetCurrentResolution:710060c8e4(
+                                                                                          71054719d8(*)  
+      7104c4efb0 00 00 80 3e     undefined4 3E800000h
+      7104c4efb4 00              ??         00h
+      7104c4efb5 00              ??         00h
+      7104c4efb6 00              ??         00h
+      7104c4efb7 00              ??         00h

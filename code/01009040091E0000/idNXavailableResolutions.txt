@@ -1,0 +1,17 @@
+                             **************************************************************
+                             * idNX::availableResolutions                                 *
+                             **************************************************************
+                             _ZN4idNX20availableResolutionsE                 XREF[7]:     Entry Point(*), 
+                             idNX::availableResolutions                                   PreliminaryRenderSetup:71005d57c
+                                                                                          SetupVidMode:71005d6bd4(R), 
+                                                                                          InitializeDeviceAndVideoMode:710
+                                                                                          EmergencyRender:71005d7884(R), 
+                                                                                          EnumerateModes:71005d8250(R), 
+                                                                                          71054c0450(*)  
+      7104c4eb68 00 05 00 00     undefined4 00000500h
+                             DAT_7104c4eb6c                                  XREF[5]:     PreliminaryRenderSetup:71005d57c
+                                                                                          SetupVidMode:71005d6bd4(R), 
+                                                                                          InitializeDeviceAndVideoMode:710
+                                                                                          EmergencyRender:71005d7884(R), 
+                                                                                          EnumerateModes:71005d8258(R)  
+      7104c4eb6c d0 02 00 00     undefined4 000002D0h
