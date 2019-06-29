@@ -40,7 +40,6 @@
 | Resident Evil Revelation | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Resident Evil Revelation 2 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Saints Row 3 | 1920x1080 | 1280x720 | No | exefs |
-| Shakedown Hawaii | 1920x1080 | 1280x720 | ? | exefs |
 | Super Bomberman R | 1280x720 | 960x540 | No | Digital Foundry |
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Super Mario Party | 1920x1080 | 1280x720 | ? | exefs |
