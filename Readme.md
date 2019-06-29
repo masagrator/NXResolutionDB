@@ -24,8 +24,9 @@
 | Lego City Undercover | 1920x1080 | ? | No | Digital Foundry |
 | Mages of Mystralia | 1920x1080 | 1280x720 | ? | exefs 1.0.1 |
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
-| Mortal Kombat 11 | 1280x720 | 854x480 | Yes (75%) | Coalesced.ini / Digital Foundry |
 | Monster Hunter XX | 1920x1080 | 1280x720 | No | Digital Foundry |
+| Mortal Kombat 11 | 1280x720 | 854x480 | Yes (75%) | Coalesced.ini / Digital Foundry |
+| My Friend Pedro | 1920x1080 | 1280x720 | ? | exefs |
 | Octopath Traveler | 1280x720 | 1024x576 | No | .ini files 1.0.2 |
 | Okami HD | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | exefs 1.1.0 |
