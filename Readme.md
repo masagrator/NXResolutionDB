@@ -20,7 +20,7 @@
 | Final Fantasy XII | 1536x864 | 1024x576 | No | Digital Foundry |
 | Hyrule Warriors | 1920x1080 | 1920x1080 | No | Digital Foundry |
 | I Am Setsuna | 1920x1080 | 1280x720 | No | Digital Foundry |
-| Inside | 1920x1080 | 1280x720 | ? | exefs |
+| Inside | 1920x1080 | 1280x720 | ? | [exefs](code/0100D2D009028000/FUN_7101324CE0.c) |
 | Irony Curtain: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
 | LA Noire | 1920x1080 | 1280x720 | Yes (W:75%) | Digital Foundry |
 | Lego City Undercover | 1920x1080 | ? | No | Digital Foundry |
