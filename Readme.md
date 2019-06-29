@@ -7,7 +7,7 @@
 | Bayonetta 2 | 1280x720 | 1280x720 | No | Digital Foundry |
 | Captain Toad: Treasure Tracker | 1920x1080 | 1280x720 | ? | Digital Foundry |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | exefs 1.0.0 |
-| Crash Team Racing | 1280x720 | 854x480 | No | exefs 1.0.3 |
+| Crash Team Racing: Nitro-Fueled | 1280x720 | 854x480 | No | exefs 1.0.3 |
 | Dark Souls | 1920x1080 | 1280x720 | Yes (D:83.3%) | Digital Foundry |
 | Donkey Kong Country: Tropical Freeze | 1920x1080 | 1152x648 | No | Digital Foundry |
 | Darksiders: Warmastered Edition | 1920x1080x30 1440x810x60 | 1280x720x30 960x540x60 | No | Digital Foundry |
