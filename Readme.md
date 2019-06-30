@@ -18,7 +18,7 @@
 | Final Fantasy IX | 1920x1080 | 1280x720 | No | exefs |
 | Final Fantasy X/X-2 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Final Fantasy XII | 1536x864 | 1024x576 | No | Digital Foundry |
-| Hellblade: Senua's Sacrifice | 1280x720 | 1280x720 | Yes (25%) | Digital Foundry / .ini files |
+| Hellblade: Senua's Sacrifice | 1280x720 | 1280x720 | Yes (25%)[(1)] | Digital Foundry / .ini files |
 | Hyrule Warriors | 1920x1080 | 1920x1080 | No | Digital Foundry |
 | I Am Setsuna | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Inside | 1920x1080 | 1280x720 | ? | [exefs](code/0100D2D009028000/FUN_7101324CE0.c) |
@@ -80,3 +80,5 @@ IDA Pro 7 with hthh_nxo64.py and HexRaysCodeXplorer64
 >https://github.com/hthh/switch-reversing/blob/master/loader/hthh_nxo64.py
 >
 >https://github.com/REhints/HexRaysCodeXplorer
+
+[1]Hellblade uses Performance Thresholds for profiling game to 75%, 50%, 25%, but according to Digital Foundry never reaches the lowest one. 75% for docked and 50% for undocked are the most noticable.
