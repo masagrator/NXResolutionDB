@@ -28,7 +28,7 @@
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
 | Monster Hunter XX | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Mortal Kombat 11 | 1280x720 | 854x480 | Yes (75%) | [Coalesced.ini](code/0100F2200C984000/Coalesced.ini) / Digital Foundry |
-| My Friend Pedro | 1920x1080 | 1280x720 | ? | exefs |
+| My Friend Pedro | 1920x1080 | 1280x720 | ? | [exefs](code/010031200B94C000/FUN_710210E500.c) |
 | Octopath Traveler | 1280x720 | 1024x576 | No | [.ini files 1.0.2](code/010057D006492000) |
 | Okami HD | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | exefs 1.1.0 |
