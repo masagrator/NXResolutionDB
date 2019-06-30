@@ -35,6 +35,7 @@
 | Outlast | 1792x1008 | 1280x720 | No | Digital Foundry |
 | Outlast 2 | 1792x1008 | 1280x720 | No | Digital Foundry |
 | Payday 2 | 1600x900 | 1280x720 | No | Digital Foundry |
+| Prison Architect | 1920x1080 | 1280x720 | ? | [exefs](code/010029200AB1C000/FUN_710041EF50.c)
 | Resident Evil | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Resident Evil 0 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Resident Evil Revelation | 1920x1080 | 1280x720 | No | Digital Foundry |
