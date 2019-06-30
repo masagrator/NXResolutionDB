@@ -42,6 +42,7 @@
 | Resident Evil Revelation | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Resident Evil Revelation 2 | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Saints Row 3 | 1920x1080 | 1280x720 | No | [exefs](code/0100DE600BEEE000/nnMain.c) |
+| Sid Meier's Civilization IV | 1920x1080 | 1280x720 | ? | [exefs](code/010044500C182000/FUN_71003495F8.c)
 | Super Bomberman R | 1280x720 | 960x540 | No | Digital Foundry |
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
