@@ -34,6 +34,7 @@
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | exefs 1.1.0 |
 | Outlast | 1792x1008 | 1280x720 | No | Digital Foundry |
 | Outlast 2 | 1792x1008 | 1280x720 | No | Digital Foundry |
+| Portal Knights | 1920x1080 | 1280x720 | ? | [exefs](code/0100437004170000/initializeStep.c) |
 | Payday 2 | 1600x900 | 1280x720 | No | Digital Foundry |
 | Prison Architect | 1920x1080 | 1280x720 | ? | [exefs](code/010029200AB1C000/FUN_710041EF50.c)
 | Resident Evil | 1920x1080 | 1280x720 | No | Digital Foundry |
