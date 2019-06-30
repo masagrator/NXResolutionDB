@@ -11,7 +11,7 @@
 | Cities Skylines | 1920x1080 | 1280x720 | ? | [exefs 1.0.0.32395](code/0100D8800B87C000/FUN_71013BB724.c) |
 | Crash Bandicoot N.Sane Trilogy | 1280x720 | 854x480 | No | [exefs 1.0.0](code/0100D1B006744000/setGameRenderer.c) |
 | Crash Team Racing: Nitro-Fueled | 1280x720 | 854x480 | No | [exefs 1.0.3](code/0100F9F00C696000/Data.txt) |
-| Dark Souls | 1920x1080 | 1280x720 | Yes (D:66.6%) | game.properties |
+| Dark Souls | 1920x1080 | 1280x720 | Yes (D:66.6%) | [game.properties 1.0.3](code/01004AB00A260000/game.properties) |
 | DOOM | 1280x720 | 1280x720 | Yes (50%) | [exefs 1.2](code/0100416004C00000)
 | Donkey Kong Country: Tropical Freeze | 1920x1080 | 1152x648 | No | Digital Foundry |
 | Darksiders: Warmastered Edition | 1920x1080x30 1440x810x60 | 1280x720x30 960x540x60 | No | Digital Foundry |
