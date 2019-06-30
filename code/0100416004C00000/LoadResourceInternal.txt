@@ -1,0 +1,1088 @@
+                             **************************************************************
+                             * idAtlasResource<2>::LoadResourceInternal(idStr&)::atlas... *
+                             **************************************************************
+                             _ZZN15idAtlasResourceILi2EE20LoadResourceInter  XREF[2]:     Entry Point(*), 7106f1c570(*)  
+                             idAtlasResource<2>::LoadResourceInternal(idStr
+      7106e71460 99 ac ee        addr       s_ATLAS_TRANSSORT_7105eeac99                     = "ATLAS_TRANSSORT"
+                 05 71 00 
+                 00 00
+      7106e71468 37 66 be        addr       s_ATLAS_LIGHTS_7105be6637                        = "ATLAS_LIGHTS"
+                 05 71 00 
+                 00 00
+                             PTR_s_ATLAS_DECALS_7106e71470                   XREF[1]:     LoadResourceInternal:7102ae3264(
+      7106e71470 56 da e4        addr       s_ATLAS_DECALS_7105e4da56                        = "ATLAS_DECALS"
+                 05 71 00 
+                 00 00
+      7106e71478 00              ??         00h
+      7106e71479 00              ??         00h
+      7106e7147a 00              ??         00h
+      7106e7147b 00              ??         00h
+      7106e7147c 00              ??         00h
+      7106e7147d 00              ??         00h
+      7106e7147e 00              ??         00h
+      7106e7147f 00              ??         00h
+                             PTR_EvaluateBox_7106e71480                      XREF[2]:     Resize:7102acf198(R), 
+                                                                                          InitKernels:7102ad59b4(R)  
+      7106e71480 68 5a ad        addr       idFilter::EvaluateBox
+                 02 71 00 
+                 00 00
+      7106e71488 88 5a ad        addr       idFilter::EvaluateCubic
+                 02 71 00 
+                 00 00
+      7106e71490 b8 5a ad        addr       idFilter::EvaluateMitchell
+                 02 71 00 
+                 00 00
+      7106e71498 28 5b ad        addr       idFilter::EvaluateLanczos
+                 02 71 00 
+                 00 00
+                             imageFilter                                     XREF[3]:     Entry Point(*), 
+                                                                                          ArgCompletion_String<&imageFilte
+                                                                                          7106f1c5c0(*)  
+      7106e714a0 86 82 e6        addr       s_GL_LINEAR_MIPMAP_NEAREST_7105e68286            = "GL_LINEAR_MIPMAP_NEAREST"
+                 05 71 00 
+                 00 00
+                             PTR_s_GL_LINEAR_MIPMAP_LINEAR_7106e714a8        XREF[1]:     ArgCompletion_String<&imageFilte
+      7106e714a8 d4 2f de        addr       s_GL_LINEAR_MIPMAP_LINEAR_7105de2fd4             = "GL_LINEAR_MIPMAP_LINEAR"
+                 05 71 00 
+                 00 00
+      7106e714b0 88 83 d7        addr       s_GL_NEAREST_7105d78388                          = "GL_NEAREST"
+                 05 71 00 
+                 00 00
+      7106e714b8 00 da df        addr       s_GL_LINEAR_7105dfda00                           = "GL_LINEAR"
+                 05 71 00 
+                 00 00
+      7106e714c0 eb 31 cf        addr       s_GL_NEAREST_MIPMAP_NEAREST_7105cf31eb           = "GL_NEAREST_MIPMAP_NEAREST"
+                 05 71 00 
+                 00 00
+      7106e714c8 9f 82 e6        addr       s_GL_NEAREST_MIPMAP_LINEAR_7105e6829f            = "GL_NEAREST_MIPMAP_LINEAR"
+                 05 71 00 
+                 00 00
+      7106e714d0 00              ??         00h
+      7106e714d1 00              ??         00h
+      7106e714d2 00              ??         00h
+      7106e714d3 00              ??         00h
+      7106e714d4 00              ??         00h
+      7106e714d5 00              ??         00h
+      7106e714d6 00              ??         00h
+      7106e714d7 00              ??         00h
+                             globalImages                                    XREF[267]:   Entry Point(*), 
+                                                                                          DrawImageAtlasSpace:7101e3ecc4(R
+                                                                                          DrawImageAtlasSpace:7101e3ee8c(R
+                                                                                          DrawImageAtlasSpace:7101e3f02c(R
+                                                                                          SetImageBuffer:7101efd84c(R), 
+                                                                                          FUN_7102abb2c0:7102abb418(R), 
+                                                                                          FUN_7102abb2c0:7102abb484(R), 
+                                                                                          FUN_7102abb2c0:7102abb4fc(R), 
+                                                                                          LoadAtlasResource<idDecalAtlasRe
+                                                                                          LoadAtlasResource<idDecalAtlasRe
+                                                                                          LoadAtlasResource<idDecalAtlasRe
+                                                                                          FUN_7102abba40:7102abbb1c(R), 
+                                                                                          FUN_7102abba40:7102abbb50(R), 
+                                                                                          FUN_7102abba40:7102abbb88(R), 
+                                                                                          FUN_7102abba40:7102abbbc0(R), 
+                                                                                          FUN_7102abba40:7102abbbf8(R), 
+                                                                                          FUN_7102abba40:7102abbc30(R), 
+                                                                                          FUN_7102abba40:7102abbc68(R), 
+                                                                                          RenderLoadingIcon:7102b78d04(R), 
+                                                                                          SeparableGaussianBlur:7102c7bd60
+      7106e714d8 b8 8a 31        addr       imageManager                                     = ??
+                 08 71 00 
+                 00 00
+      7106e714e0 00              ??         00h                                              ?  ->  7105dfda00
+      7106e714e1 da              ??         DAh
+      7106e714e2 df              ??         DFh
+      7106e714e3 05              ??         05h
+      7106e714e4 71              ??         71h    q
+      7106e714e5 00              ??         00h
+      7106e714e6 00              ??         00h
+      7106e714e7 00              ??         00h
+                             DAT_7106e714e8                                  XREF[1]:     ChangeTextureFilter:7102ae4ebc(R
+      7106e714e8 00 00 00        undefined8 0000000000000000h
+                 00 00 00 
+                 00 00
+                             DAT_7106e714f0                                  XREF[1]:     ChangeTextureFilter:7102ae4ec0(R
+      7106e714f0 00 00 00 00     undefined4 00000000h
+      7106e714f4 00              ??         00h
+      7106e714f5 00              ??         00h
+      7106e714f6 00              ??         00h
+      7106e714f7 00              ??         00h
+      7106e714f8 d4              ??         D4h                                              ?  ->  7105de2fd4
+      7106e714f9 2f              ??         2Fh    /
+      7106e714fa de              ??         DEh
+      7106e714fb 05              ??         05h
+      7106e714fc 71              ??         71h    q
+      7106e714fd 00              ??         00h
+      7106e714fe 00              ??         00h
+      7106e714ff 00              ??         00h
+                             DAT_7106e71500                                  XREF[1]:     ChangeTextureFilter:7102ae4ebc(R
+      7106e71500 00 00 00        undefined8 0000000000000000h
+                 00 00 00 
+                 00 00
+                             DAT_7106e71508                                  XREF[1]:     ChangeTextureFilter:7102ae4ec0(R
+      7106e71508 00 00 00 00     undefined4 00000000h
+      7106e7150c 00              ??         00h
+      7106e7150d 00              ??         00h
+      7106e7150e 00              ??         00h
+      7106e7150f 00              ??         00h
+      7106e71510 86              ??         86h                                              ?  ->  7105e68286
+      7106e71511 82              ??         82h
+      7106e71512 e6              ??         E6h
+      7106e71513 05              ??         05h
+      7106e71514 71              ??         71h    q
+      7106e71515 00              ??         00h
+      7106e71516 00              ??         00h
+      7106e71517 00              ??         00h
+                             DAT_7106e71518                                  XREF[1]:     ChangeTextureFilter:7102ae4ebc(R
+      7106e71518 00 00 00        undefined8 0000000000000000h
+                 00 00 00 
+                 00 00
+                             DAT_7106e71520                                  XREF[1]:     ChangeTextureFilter:7102ae4ec0(R
+      7106e71520 01 00 00 00     undefined4 00000001h
+      7106e71524 00              ??         00h
+      7106e71525 00              ??         00h
+      7106e71526 00              ??         00h
+      7106e71527 00              ??         00h
+      7106e71528 9f              ??         9Fh                                              ?  ->  7105e6829f
+      7106e71529 82              ??         82h
+      7106e7152a e6              ??         E6h
+      7106e7152b 05              ??         05h
+      7106e7152c 71              ??         71h    q
+      7106e7152d 00              ??         00h
+      7106e7152e 00              ??         00h
+      7106e7152f 00              ??         00h
+                             DAT_7106e71530                                  XREF[1]:     ChangeTextureFilter:7102ae4ebc(R
+      7106e71530 01 00 00        undefined8 0000000100000001h
+                 00 01 00 
+                 00 00
+                             DAT_7106e71538                                  XREF[1]:     ChangeTextureFilter:7102ae4ec0(R
+      7106e71538 00 00 00 00     undefined4 00000000h
+      7106e7153c 00              ??         00h
+      7106e7153d 00              ??         00h
+      7106e7153e 00              ??         00h
+      7106e7153f 00              ??         00h
+      7106e71540 eb              ??         EBh                                              ?  ->  7105cf31eb
+      7106e71541 31              ??         31h    1
+      7106e71542 cf              ??         CFh
+      7106e71543 05              ??         05h
+      7106e71544 71              ??         71h    q
+      7106e71545 00              ??         00h
+      7106e71546 00              ??         00h
+      7106e71547 00              ??         00h
+                             DAT_7106e71548                                  XREF[1]:     ChangeTextureFilter:7102ae4ebc(R
+      7106e71548 01 00 00        undefined8 0000000100000001h
+                 00 01 00 
+                 00 00
+                             DAT_7106e71550                                  XREF[1]:     ChangeTextureFilter:7102ae4ec0(R
+      7106e71550 01 00 00 00     undefined4 00000001h
+      7106e71554 00              ??         00h
+      7106e71555 00              ??         00h
+      7106e71556 00              ??         00h
+      7106e71557 00              ??         00h
+      7106e71558 88              ??         88h                                              ?  ->  7105d78388
+      7106e71559 83              ??         83h
+      7106e7155a d7              ??         D7h
+      7106e7155b 05              ??         05h
+      7106e7155c 71              ??         71h    q
+      7106e7155d 00              ??         00h
+      7106e7155e 00              ??         00h
+      7106e7155f 00              ??         00h
+                             DAT_7106e71560                                  XREF[1]:     ChangeTextureFilter:7102ae4ebc(R
+      7106e71560 01 00 00        undefined8 0000000100000001h
+                 00 01 00 
+                 00 00
+                             DAT_7106e71568                                  XREF[1]:     ChangeTextureFilter:7102ae4ec0(R
+      7106e71568 01 00 00 00     undefined4 00000001h
+      7106e7156c 00              ??         00h
+      7106e7156d 00              ??         00h
+      7106e7156e 00              ??         00h
+      7106e7156f 00              ??         00h
+      7106e71570 55              ??         55h    U                                         ?  ->  7105c1c855
+      7106e71571 c8              ??         C8h
+      7106e71572 c1              ??         C1h
+      7106e71573 05              ??         05h
+      7106e71574 71              ??         71h    q
+      7106e71575 00              ??         00h
+      7106e71576 00              ??         00h
+      7106e71577 00              ??         00h
+                             PTR_s_Characters_7106e71578                     XREF[1]:     7102ae64d8(R)  
+      7106e71578 bc 82 e6        addr       s_Characters_7105e682bc                          = "Characters"
+                 05 71 00 
+                 00 00
+      7106e71580 00              ??         00h
+      7106e71581 00              ??         00h
+      7106e71582 00              ??         00h
+      7106e71583 00              ??         00h
+                             DAT_7106e71584                                  XREF[1]:     7102ae639c(R)  
+      7106e71584 00              ??         00h
+      7106e71585 02              ??         02h
+      7106e71586 00              ??         00h
+      7106e71587 00              ??         00h
+                             DAT_7106e71588                                  XREF[1]:     7102ae63ac(R)  
+      7106e71588 00              ??         00h
+      7106e71589 02              ??         02h
+      7106e7158a 00              ??         00h
+      7106e7158b 00              ??         00h
+      7106e7158c 00              ??         00h
+      7106e7158d 00              ??         00h
+      7106e7158e 00              ??         00h
+      7106e7158f 00              ??         00h
+      7106e71590 67 c8 c1        addr       s_models/weapons_7105c1c867                      = "models/weapons"
+                 05 71 00 
+                 00 00
+      7106e71598 b5 10 ed        addr       s_Weapons_7105ed10b5                             = "Weapons"
+                 05 71 00 
+                 00 00
+      7106e715a0 01              ??         01h
+      7106e715a1 00              ??         00h
+      7106e715a2 00              ??         00h
+      7106e715a3 00              ??         00h
+      7106e715a4 00              ??         00h
+      7106e715a5 02              ??         02h
+      7106e715a6 00              ??         00h
+      7106e715a7 00              ??         00h
+      7106e715a8 00              ??         00h
+      7106e715a9 02              ??         02h
+      7106e715aa 00              ??         00h
+      7106e715ab 00              ??         00h
+      7106e715ac 00              ??         00h
+      7106e715ad 00              ??         00h
+      7106e715ae 00              ??         00h
+      7106e715af 00              ??         00h
+      7106e715b0 f4 d3 d5        addr       s_models/monsters_7105d5d3f4                     = "models/monsters"
+                 05 71 00 
+                 00 00
+      7106e715b8 eb 38 d9        addr       s_Monsters_7105d938eb                            = "Monsters"
+                 05 71 00 
+                 00 00
+      7106e715c0 02              ??         02h
+      7106e715c1 00              ??         00h
+      7106e715c2 00              ??         00h
+      7106e715c3 00              ??         00h
+      7106e715c4 00              ??         00h
+      7106e715c5 02              ??         02h
+      7106e715c6 00              ??         00h
+      7106e715c7 00              ??         00h
+      7106e715c8 00              ??         00h
+      7106e715c9 02              ??         02h
+      7106e715ca 00              ??         00h
+      7106e715cb 00              ??         00h
+      7106e715cc 00              ??         00h
+      7106e715cd 00              ??         00h
+      7106e715ce 00              ??         00h
+      7106e715cf 00              ??         00h
+      7106e715d0 ac 1d bb        addr       s_models/mapobjects_7105bb1dac                   = "models/mapobjects"
+                 05 71 00 
+                 00 00
+      7106e715d8 02 2b ca        addr       s_Model_Geometry_7105ca2b02                      = "Model Geometry"
+                 05 71 00 
+                 00 00
+      7106e715e0 03              ??         03h
+      7106e715e1 00              ??         00h
+      7106e715e2 00              ??         00h
+      7106e715e3 00              ??         00h
+      7106e715e4 00              ??         00h
+      7106e715e5 02              ??         02h
+      7106e715e6 00              ??         00h
+      7106e715e7 00              ??         00h
+      7106e715e8 00              ??         00h
+      7106e715e9 02              ??         02h
+      7106e715ea 00              ??         00h
+      7106e715eb 00              ??         00h
+      7106e715ec 00              ??         00h
+      7106e715ed 00              ??         00h
+      7106e715ee 00              ??         00h
+      7106e715ef 00              ??         00h
+      7106e715f0 5a e8 da        addr       s_models/items_7105dae85a                        = "models/items"
+                 05 71 00 
+                 00 00
+      7106e715f8 29 89 d2        addr       s_Items_7105d28929                               = "Items"
+                 05 71 00 
+                 00 00
+      7106e71600 04              ??         04h
+      7106e71601 00              ??         00h
+      7106e71602 00              ??         00h
+      7106e71603 00              ??         00h
+      7106e71604 00              ??         00h
+      7106e71605 02              ??         02h
+      7106e71606 00              ??         00h
+      7106e71607 00              ??         00h
+      7106e71608 00              ??         00h
+      7106e71609 02              ??         02h
+      7106e7160a 00              ??         00h
+      7106e7160b 00              ??         00h
+      7106e7160c 00              ??         00h
+      7106e7160d 00              ??         00h
+      7106e7160e 00              ??         00h
+      7106e7160f 00              ??         00h
+      7106e71610 31 6d de        addr       s_models_7105de6d31                              = "models"
+                 05 71 00 
+                 00 00
+      7106e71618 ec 85 e1        addr       s_Other_model_textures_7105e185ec                = "Other model textures"
+                 05 71 00 
+                 00 00
+      7106e71620 05              ??         05h
+      7106e71621 00              ??         00h
+      7106e71622 00              ??         00h
+      7106e71623 00              ??         00h
+      7106e71624 00              ??         00h
+      7106e71625 02              ??         02h
+      7106e71626 00              ??         00h
+      7106e71627 00              ??         00h
+      7106e71628 00              ??         00h
+      7106e71629 02              ??         02h
+      7106e7162a 00              ??         00h
+      7106e7162b 00              ??         00h
+      7106e7162c 00              ??         00h
+      7106e7162d 00              ??         00h
+      7106e7162e 00              ??         00h
+      7106e7162f 00              ??         00h
+      7106e71630 e1 6d e3        addr       DAT_7105e36de1                                   = 73h
+                 05 71 00 
+                 00 00
+      7106e71638 cf 2f d4        addr       s_SWF_Guis_7105d42fcf                            = "SWF Guis"
+                 05 71 00 
+                 00 00
+      7106e71640 06              ??         06h
+      7106e71641 00              ??         00h
+      7106e71642 00              ??         00h
+      7106e71643 00              ??         00h
+      7106e71644 00              ??         00h
+      7106e71645 04              ??         04h
+      7106e71646 00              ??         00h
+      7106e71647 00              ??         00h
+      7106e71648 00              ??         00h
+      7106e71649 04              ??         04h
+      7106e7164a 00              ??         00h
+      7106e7164b 00              ??         00h
+      7106e7164c 00              ??         00h
+      7106e7164d 00              ??         00h
+      7106e7164e 00              ??         00h
+      7106e7164f 00              ??         00h
+      7106e71650 84 30 cf        addr       s_textures/guis_7105cf3084                       = "textures/guis"
+                 05 71 00 
+                 00 00
+      7106e71658 01 86 e1        addr       s_Other_Guis_7105e18601                          = "Other Guis"
+                 05 71 00 
+                 00 00
+      7106e71660 07              ??         07h
+      7106e71661 00              ??         00h
+      7106e71662 00              ??         00h
+      7106e71663 00              ??         00h
+      7106e71664 00              ??         00h
+      7106e71665 01              ??         01h
+      7106e71666 00              ??         00h
+      7106e71667 00              ??         00h
+      7106e71668 00              ??         00h
+      7106e71669 01              ??         01h
+      7106e7166a 00              ??         00h
+      7106e7166b 00              ??         00h
+      7106e7166c 00              ??         00h
+      7106e7166d 00              ??         00h
+      7106e7166e 00              ??         00h
+      7106e7166f 00              ??         00h
+      7106e71670 d1 24 e8        addr       s_textures_7105e824d1                            = "textures"
+                 05 71 00 
+                 00 00
+      7106e71678 c6 88 c8        addr       s_World_Geometry_7105c888c6                      = "World Geometry"
+                 05 71 00 
+                 00 00
+      7106e71680 08              ??         08h
+      7106e71681 00              ??         00h
+      7106e71682 00              ??         00h
+      7106e71683 00              ??         00h
+      7106e71684 00              ??         00h
+      7106e71685 01              ??         01h
+      7106e71686 00              ??         00h
+      7106e71687 00              ??         00h
+      7106e71688 00              ??         00h
+      7106e71689 01              ??         01h
+      7106e7168a 00              ??         00h
+      7106e7168b 00              ??         00h
+      7106e7168c 00              ??         00h
+      7106e7168d 00              ??         00h
+      7106e7168e 00              ??         00h
+      7106e7168f 00              ??         00h
+      7106e71690 c1 8e cd        addr       DAT_7105cd8ec1                                   = 65h    e
+                 05 71 00 
+                 00 00
+      7106e71698 21 da df        addr       s_Environment_Cubes_7105dfda21                   = "Environment Cubes"
+                 05 71 00 
+                 00 00
+      7106e716a0 09              ??         09h
+      7106e716a1 00              ??         00h
+      7106e716a2 00              ??         00h
+      7106e716a3 00              ??         00h
+      7106e716a4 80              ??         80h
+      7106e716a5 00              ??         00h
+      7106e716a6 00              ??         00h
+      7106e716a7 00              ??         00h
+      7106e716a8 80              ??         80h
+      7106e716a9 00              ??         00h
+      7106e716aa 00              ??         00h
+      7106e716ab 00              ??         00h
+      7106e716ac 00              ??         00h
+      7106e716ad 00              ??         00h
+      7106e716ae 00              ??         00h
+      7106e716af 00              ??         00h
+      7106e716b0 c1 c4 e6        addr       DAT_7105e6c4c1
+                 05 71 00 
+                 00 00
+      7106e716b8 33 da df        addr       s_Other_7105dfda33                               = "Other"
+                 05 71 00 
+                 00 00
+      7106e716c0 0a              ??         0Ah
+      7106e716c1 00              ??         00h
+      7106e716c2 00              ??         00h
+      7106e716c3 00              ??         00h
+      7106e716c4 00              ??         00h
+      7106e716c5 01              ??         01h
+      7106e716c6 00              ??         00h
+      7106e716c7 00              ??         00h
+      7106e716c8 00              ??         00h
+      7106e716c9 01              ??         01h
+      7106e716ca 00              ??         00h
+      7106e716cb 00              ??         00h
+      7106e716cc 00              ??         00h
+      7106e716cd 00              ??         00h
+      7106e716ce 00              ??         00h
+      7106e716cf 00              ??         00h
+                             DAT_7106e716d0                                  XREF[4]:     uni:7102ae931c(R), 
+                                                                                          uni:7102ae93a8(W), 
+                                                                                          Dither256Image:7102ae9520(R), 
+                                                                                          Dither256Image:7102ae9748(W)  
+      7106e716d0 03 d9 00 00     undefined4 0000D903h
+                             DAT_7106e716d4                                  XREF[4]:     uni:7102ae9324(R), 
+                                                                                          uni:7102ae93b4(W), 
+                                                                                          Dither256Image:7102ae9528(R), 
+                                                                                          Dither256Image:7102ae9740(W)  
+      7106e716d4 9f 86 01 00     undefined4 0001869Fh
+                             lowStats                                        XREF[8]:     Entry Point(*), 
+                                                                                          DrawHeapMemoryUsage:7101e3261c(R
+                                                                                          DrawHeapMemoryUsage:7101e32628(W
+                                                                                          DrawHeapMemoryUsage:7101e32688(R
+                                                                                          Sys_GetVideoMemoryStats:7102aee0
+                                                                                          Sys_GetVideoMemoryStats:7102aee0
+                                                                                          Sys_GetLowVideoMemoryAvail:7102a
+                                                                                          7106ef47d8(*)  
+      7106e716d8 ff ff ff        undefined8 FFFFFFFFFFFFFFFFh
+                 ff ff ff 
+                 ff ff
+                             PTR_DAT_7106e716e0                              XREF[4]:     WriteString:7102af08c8(R), 
+                                                                                          WriteString:7102af0970(R), 
+                                                                                          WriteString:7102af0a18(R), 
+                                                                                          WriteString:7102af0ac8(R)  
+      7106e716e0 7e 17 e0        addr       DAT_7105e0177e                                   = 78h
+                 05 71 00 
+                 00 00
+      7106e716e8 f9 0c c2        addr       DAT_7105c20cf9                                   = 79h
+                 05 71 00 
+                 00 00
+      7106e716f0 b5 21 ea        addr       DAT_7105ea21b5                                   = 7Ah
+                 05 71 00 
+                 00 00
+      7106e716f8 bd c7 d1        addr       DAT_7105d1c7bd                                   = 77h
+                 05 71 00 
+                 00 00
+                             DAT_7106e71700                                  XREF[2]:     InitSettings:7102b03a74(R), 
+                                                                                          InitSettings:7102b03b04(W)  
+      7106e71700 ff ff ff ff     undefined4 FFFFFFFFh
+      7106e71704 00              ??         00h
+      7106e71705 00              ??         00h
+      7106e71706 00              ??         00h
+      7106e71707 00              ??         00h
+                             renderSystem                                    XREF[325]:   Entry Point(*), 
+                                                                                          Frame:710123b16c(R), 
+                                                                                          Frame:710123b17c(R), 
+                                                                                          PanCamera:710123b6e4(R), 
+                                                                                          GetRayCastFromMouse:710123b7b0(R
+                                                                                          GetRayCastFromMouse:710123b7c0(R
+                                                                                          Draw:7101e3a4bc(R), 
+                                                                                          DrawOverlayText:7101e3a8a4(R), 
+                                                                                          DrawOverlayText:7101e3a8ec(R), 
+                                                                                          DrawOverlayText:7101e3ab48(R), 
+                                                                                          DrawOverlayText:7101e3ab88(R), 
+                                                                                          DrawTimeRanges:7101e3b1d0(R), 
+                                                                                          Init:7101e79c0c(R), 
+                                                                                          Init:7101e79ca8(R), 
+                                                                                          SetLevelLoadPercentage:7101e79e4
+                                                                                          LaunchLoadScreen:7101e79ed8(R), 
+                                                                                          Job_RenderViews:7102b7a318(R), 
+                                                                                          Job_RenderViews:7102b7a328(R), 
+                                                                                          Job_UpdateTextureStreaming:7102b
+                                                                                          Job_UpdateTextureStreaming:7102b
+      7106e71708 40 fd 59        addr       tr                                               = ??
+                 08 71 00 
+                 00 00
+      7106e71710 2e d0 d4        addr       s_Disabled_7105d4d02e                            = "Disabled"
+                 05 71 00 
+                 00 00
+      7106e71718 d7 19 ce        addr       s_Albedo_7105ce19d7                              = "Albedo"
+                 05 71 00 
+                 00 00
+      7106e71720 37 d0 d4        addr       s_Specular_7105d4d037                            = "Specular"
+                 05 71 00 
+                 00 00
+      7106e71728 a8 26 e2        addr       s_Smoothness_7105e226a8                          = "Smoothness"
+                 05 71 00 
+                 00 00
+      7106e71730 1d c5 ca        addr       s_Normals_7105cac51d                             = "Normals"
+                 05 71 00 
+                 00 00
+      7106e71738 a7 b1 bb        addr       s_Albedo_range_check_7105bbb1a7                  = "Albedo range check"
+                 05 71 00 
+                 00 00
+      7106e71740 ce 7c c7        addr       s_Specular_range_check_7105c77cce                = "Specular range check"
+                 05 71 00 
+                 00 00
+      7106e71748 f6 21 c9        addr       s_Lighting_overdraw_7105c921f6                   = "Lighting overdraw"
+                 05 71 00 
+                 00 00
+      7106e71750 9a b5 c0        addr       s_Lighting_7105c0b59a                            = "Lighting"
+                 05 71 00 
+                 00 00
+      7106e71758 fe 87 d1        addr       s_Diffuse_term_7105d187fe                        = "Diffuse term"
+                 05 71 00 
+                 00 00
+      7106e71760 33 b5 c5        addr       s_Specular_term_7105c5b533                       = "Specular term"
+                 05 71 00 
+                 00 00
+      7106e71768 9c fa be        addr       s_Env_Probes_check_7105befa9c                    = "Env Probes check"
+                 05 71 00 
+                 00 00
+      7106e71770 03 ce cf        addr       s_Ambient_check_7105cfce03                       = "Ambient check"
+                 05 71 00 
+                 00 00
+      7106e71778 8b c5 e3        addr       s_Particles_overdraw_7105e3c58b                  = "Particles overdraw"
+                 05 71 00 
+                 00 00
+      7106e71780 46 1c d3        addr       s_Smoothing_groups_check_7105d31c46              = "Smoothing groups check"
+                 05 71 00 
+                 00 00
+      7106e71788 9a 25 dd        addr       s_VMTR_density_7105dd259a                        = "VMTR density"
+                 05 71 00 
+                 00 00
+      7106e71790 c9 78 cc        addr       s_VMTR_size_7105cc78c9                           = "VMTR size"
+                 05 71 00 
+                 00 00
+      7106e71798 65 bd e8        addr       s_Lights_overdraw_7105e8bd65                     = "Lights overdraw"
+                 05 71 00 
+                 00 00
+      7106e717a0 3d 62 c2        addr       s_Env_Probes_overdraw_7105c2623d                 = "Env Probes overdraw"
+                 05 71 00 
+                 00 00
+      7106e717a8 25 50 ea        addr       s_Decals_overdraw_7105ea5025                     = "Decals overdraw"
+                 05 71 00 
+                 00 00
+      7106e717b0 75 bd e8        addr       s_All_volumes_overdraw_7105e8bd75                = "All volumes overdraw"
+                 05 71 00 
+                 00 00
+      7106e717b8 5d 1c d3        addr       s_Debug_lighting_inputs_7105d31c5d               = "Debug lighting inputs"
+                 05 71 00 
+                 00 00
+                             PTR_s_Critical_path_7106e717c0                  XREF[1]:     PrintStatistics:7102b1f020(R)  
+      7106e717c0 a3 b5 c0        addr       s_Critical_path_7105c0b5a3                       = "Critical path"
+                 05 71 00 
+                 00 00
+                             lightingDebugAlbedoWarning                      XREF[3]:     Entry Point(*), 
+                                                                                          PrintStatistics:7102b1f168(R), 
+                                                                                          7106f1cdb8(*)  
+      7106e717c8 a4 89 e6        addr       s_White_=_material_is_very_bright._7105e689a4    = "White = material is very brig
+                 05 71 00 
+                 00 00
+                             lightingDebugAlbedo                             XREF[3]:     Entry Point(*), 
+                                                                                          PrintStatistics:7102b1f168(R), 
+                                                                                          7106f1cdc0(*)  
+      7106e717d0 b0 2a e8        addr       s_White_=_albedo_is_outside_specif_7105e82ab0    = "White = albedo is outside spe
+                 05 71 00 
+                 00 00
+                             lightingDebugSpecular                           XREF[2]:     Entry Point(*), 7106f1cdd0(*)  
+      7106e717d8 2f 32 e3        addr       s_Red_=_invalid_range_-_please_upd_7105e3322f    = "Red = invalid range - please 
+                 05 71 00 
+                 00 00
+                             lightingDebugLightsOverdraw                     XREF[2]:     Entry Point(*), 7106f1cdc8(*)  
+      7106e717e0 d5 34 de        addr       s_Red_=_more_than_10_volumes_overl_7105de34d5    = "Red = more than 10 volumes ov
+                 05 71 00 
+                 00 00
+                             lightingDebugParticlesOverdraw                  XREF[2]:     Entry Point(*), 7106f1cdd8(*)  
+      7106e717e8 99 8e d2        addr       s_White_=_more_than_10_particles_o_7105d28e99    = "White = more than 10 particle
+                 05 71 00 
+                 00 00
+                             lightingCriticalPath                            XREF[3]:     Entry Point(*), 
+                                                                                          PrintStatistics:7102b1f168(R), 
+                                                                                          7106f1cde0(*)  
+      7106e717f0 d6 6a be        addr       s_Red:_decals_take_longer_than_pro_7105be6ad6    = "Red: decals take longer than 
+                 05 71 00 
+                 00 00
+                             stallTime                                       XREF[43]:    Entry Point(*), 
+                                                                                          PreThink_JobWait:71006bc000(*), 
+                                                                                          WaitAndSwapBuffers:7102af6e5c(*), 
+                                                                                          WaitAndSwapBuffers:7102af6eb8(R), 
+                                                                                          WaitAndSwapBuffers:7102af6ef8(W), 
+                                                                                          SubmitAcquireTexture:7102b28b7c(
+                                                                                          SubmitAcquireTexture:7102b28be8(
+                                                                                          SubmitAcquireTexture:7102b28c18(
+                                                                                          SubmitPresentTexture:7102b28d88(
+                                                                                          SubmitPresentTexture:7102b28df4(
+                                                                                          AcquireBackBufferTexture:7102b2b
+                                                                                          AcquireBackBufferTexture:7102b2b
+                                                                                          AcquireBackBufferTexture:7102b2b
+                                                                                          WaitForViewJobs:7102b7b55c(*), 
+                                                                                          WaitForViewJobs:7102b7b648(*), 
+                                                                                          WaitForRenderJobs:7102b7b7dc(*), 
+                                                                                          PushFeedback:7102baa650(*), 
+                                                                                          FUN_710303ffc0:71030400e0(*), 
+                                                                                          FUN_710303ffc0:7103040488(R), 
+                                                                                          FUN_710303ffc0:71030404ac(W), 
+      7106e717f8 ff ff ff        undefined8 FFFFFFFFFFFFFFFFh
+                 ff ff ff 
+                 ff ff
+                             DAT_7106e71800                                  XREF[3]:     GetStallSlot:7102b232cc(*), 
+                                                                                          RenderFrame:7102b23634(R), 
+                                                                                          FUN_710303ffc0:71030400e0(*)  
+      7106e71800 ff ff ff        undefined8 FFFFFFFFFFFFFFFFh
+                 ff ff ff 
+                 ff ff
+                             DAT_7106e71808                                  XREF[4]:     GetStallSlot:7102b232cc(*), 
+                                                                                          RenderFrame:7102b23654(R), 
+                                                                                          RenderFrame:7102b236bc(W), 
+                                                                                          FUN_710303ffc0:71030400e0(*)  
+      7106e71808 ff ff ff        undefined8 FFFFFFFFFFFFFFFFh
+                 ff ff ff 
+                 ff ff
+                             DAT_7106e71810                                  XREF[3]:     GetStallSlot:7102b232cc(*), 
+                                                                                          RenderFrame:7102b23654(R), 
+                                                                                          FUN_710303ffc0:71030400e0(*)  
+      7106e71810 ff ff ff        undefined8 FFFFFFFFFFFFFFFFh
+                 ff ff ff 
+                 ff ff
+                             DAT_7106e71818                                  XREF[4]:     GetStallSlot:7102b232cc(*), 
+                                                                                          RenderFrame:7102b2366c(R), 
+                                                                                          RenderFrame:7102b236c0(W), 
+                                                                                          FUN_710303ffc0:71030400e0(*)  
+      7106e71818 ff ff ff        undefined8 FFFFFFFFFFFFFFFFh
+                 ff ff ff 
+                 ff ff
+                             DAT_7106e71820                                  XREF[3]:     GetStallSlot:7102b232e4(*), 
+                                                                                          WaitForRenderJobs:7102b7b7dc(*), 
+                                                                                          FUN_710303ffc0:71030400e0(*)  
+      7106e71820 00              ??         00h
+      7106e71821 00              ??         00h
+      7106e71822 00              ??         00h
+      7106e71823 00              ??         00h
+      7106e71824 00              ??         00h
+      7106e71825 00              ??         00h
+      7106e71826 00              ??         00h
+      7106e71827 00              ??         00h
+                             perfMode                                        XREF[9]:     Entry Point(*), 
+                                                                                          PlatformPump:71000d7fc4(W), 
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          UpdatePerformanceAndOpMode:7102b
+                                                                                          UpdatePerformanceAndOpMode:7102b
+                                                                                          UpdateAll:7102b65438(R), 
+                                                                                          7106edae80(*)  
+      7106e71828 ff ff ff ff     undefined4 FFFFFFFFh
+                             opMode                                          XREF[8]:     Entry Point(*), 
+                                                                                          PlatformPump:71000d7fc4(W), 
+                                                                                          InitSettings:7102b037fc(R), 
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          UpdatePerformanceAndOpMode:7102b
+                                                                                          UpdatePerformanceAndOpMode:7102b
+                                                                                          7106edae78(*)  
+      7106e7182c ff ff ff ff     undefined4 FFFFFFFFh
+                             bPerfModeChanged                                XREF[6]:     Entry Point(*), 
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          ProgramPerformanceModeConfigurat
+                                                                                          UpdatePerformanceAndOpMode:7102b
+                                                                                          7106f1dac8(*)  
+      7106e71830 01              undefined1 01h
+                             allowBinkLoadInRenderThreadHACK                 XREF[3]:     Entry Point(*), 
+                                                                                          WaitForNextVideoFrame:7102b2dd74
+                                                                                          7106ef42b8(*)  
+      7106e71831 01              undefined1 01h
+      7106e71832 00              ??         00h
+      7106e71833 00              ??         00h
+      7106e71834 00              ??         00h
+      7106e71835 00              ??         00h
+      7106e71836 00              ??         00h
+      7106e71837 00              ??         00h
+                             lightingInputsDebug                             XREF[1]:     Entry Point(*)  
+      7106e71838 7f              ??         7Fh                                             ?  ->  7105e9c97f
+      7106e71839 c9              ??         C9h
+      7106e7183a e9              ??         E9h
+      7106e7183b 05              ??         05h
+      7106e7183c 71              ??         71h    q
+      7106e7183d 00              ??         00h
+      7106e7183e 00              ??         00h
+      7106e7183f 00              ??         00h
+                             PTR_DAT_7106e71840                              XREF[2]:     R_ScreenshotFilename:7102b314b4(
+                                                                                          R_ScreenShot_f:7102b31da8(R)  
+      7106e71840 69 a1 be        addr       DAT_7105bea169                                   = 74h
+                 05 71 00 
+                 00 00
+      7106e71848 50 2b ea        addr       DAT_7105ea2b50                                   = 6Ah    j
+                 05 71 00 
+                 00 00
+      7106e71850 40 b5 db        addr       DAT_7105dbb540                                   = 70h
+                 05 71 00 
+                 00 00
+                             resolutionScaleEnabled                          XREF[5]:     Entry Point(*), 
+                                                                                          RunFrame:710014d618(W), 
+                                                                                          Update:7102b64c4c(R), 
+                                                                                          UpdateAll:7102b65194(R), 
+                                                                                          7106edb9f8(*)  
+      7106e71858 01              undefined1 01h
+      7106e71859 00              ??         00h
+      7106e7185a 00              ??         00h
+      7106e7185b 00              ??         00h
+                             maxResX                                         XREF[7]:     Entry Point(*), 
+                                                                                          Update:7102b64c1c(R), 
+                                                                                          Update:7102b64cc8(R), 
+                                                                                          Update:7102b64e64(R), 
+                                                                                          Update:7102b64e70(R), 
+                                                                                          UpdateAll:7102b6520c(W), 
+                                                                                          7106f1dec8(*)  
+      7106e7185c 00 00 80 3f     undefined4 3F800000h
+                             maxResY                                         XREF[6]:     Entry Point(*), 
+                                                                                          Update:7102b64c2c(R), 
+                                                                                          Update:7102b64cf0(R), 
+                                                                                          Update:7102b64e78(R), 
+                                                                                          UpdateAll:7102b65200(W), 
+                                                                                          7106f1ded0(*)  
+      7106e71860 00 00 80 3f     undefined4 3F800000h
+                             minResX                                         XREF[6]:     Entry Point(*), 
+                                                                                          Update:7102b64cb4(R), 
+                                                                                          Update:7102b64d3c(R), 
+                                                                                          Update:7102b64e8c(R), 
+                                                                                          UpdateAll:7102b651dc(W), 
+                                                                                          7106f1def0(*)  
+      7106e71864 00 00 00 3f     undefined4 3F000000h
+                             minResY                                         XREF[5]:     Entry Point(*), 
+                                                                                          Update:7102b64cec(R), 
+                                                                                          Update:7102b64e98(R), 
+                                                                                          UpdateAll:7102b651f4(W), 
+                                                                                          7106f1def8(*)  
+      7106e71868 00 00 00 3f     undefined4 3F000000h
+                             maxRes                                          XREF[6]:     Entry Point(*), 
+                                                                                          Update:7102b64d84(R), 
+                                                                                          UpdateAll:7102b65214(W), 
+                                                                                          UpdateAll:7102b65458(R), 
+                                                                                          SetCurrentResolution:7102b656f4(
+                                                                                          7106f1df18(*)  
+      7106e7186c 00 00 80 3f     undefined4 3F800000h
+                             minRes                                          XREF[5]:     Entry Point(*), 
+                                                                                          Update:7102b64db0(R), 
+                                                                                          UpdateAll:7102b65210(W), 
+                                                                                          SetCurrentResolution:7102b65654(
+                                                                                          7106f1df30(*)  
+      7106e71870 00 00 80 3e     undefined4 3E800000h
+                             canUpdate                                       XREF[4]:     Entry Point(*), 
+                                                                                          UpdateAll:7102b65208(R), 
+                                                                                          UpdateAll:7102b655a0(W), 
+                                                                                          7106f1df78(*)  
+      7106e71874 01              undefined1 01h
+      7106e71875 00              ??         00h
+      7106e71876 00              ??         00h
+      7106e71877 00              ??         00h
+                             ResolutionHistory                               XREF[8]:     Entry Point(*), 
+                                                                                          UpdateAll:7102b65274(R), 
+                                                                                          UpdateAll:7102b65288(R), 
+                                                                                          UpdateAll:7102b653d4(W), 
+                                                                                          SetCurrentResolution:7102b65668(
+                                                                                          SetCurrentResolution:7102b6567c(
+                                                                                          SetCurrentResolution:7102b657d8(
+                                                                                          7106f1df80(*)  
+      7106e71878 00              ??         00h
+      7106e71879 00              ??         00h
+      7106e7187a 80              ??         80h
+      7106e7187b 3f              ??         3Fh    ?
+      7106e7187c 00              ??         00h
+      7106e7187d 00              ??         00h
+      7106e7187e 80              ??         80h
+      7106e7187f 3f              ??         3Fh    ?
+                             textureSamplerManager                           XREF[62]:    Entry Point(*), 
+                                                                                          ParseValue:7102a74a68(R), 
+                                                                                          ChangeDecalsTextureFilter:7102ae
+                                                                                          ChangeDecalsTextureFilter:7102ae
+                                                                                          ChangeTextureFilter:7102ae4ef8(R
+                                                                                          ChangeTextureFilter:7102ae4f0c(R
+                                                                                          CheckCvars:7102ae6fbc(R), 
+                                                                                          CheckCvars:7102ae6fec(R), 
+                                                                                          WriteConstant:7102af0100(R), 
+                                                                                          Save:7102af1ca4(R), 
+                                                                                          Load:7102af26f8(R), 
+                                                                                          idParmBlockParser:7102af4fd0(R), 
+                                                                                          ShowImageCompare:7102b5a35c(R), 
+                                                                                          ShowImageCompare:7102b5a378(R), 
+                                                                                          ShowImageCompare:7102b5a3c8(R), 
+                                                                                          ShowImageCompare:7102b5a3d8(R), 
+                                                                                          ShowImageCompare:7102b5b0dc(R), 
+                                                                                          ShowImageCompare:7102b5b0ec(R), 
+                                                                                          ShowImageCompare:7102b5b134(R), 
+                                                                                          ShowImageCompare:7102b5b144(R), 
+      7106e71880 d8 fd 7a        addr       textureSamplerManagerLocal                       = ??
+                 08 71 00 
+                 00 00
+                             uAlloc                                          XREF[3]:     Entry Point(*), 
+                                                                                          SetTome:7102b83044(*), 
+                                                                                          7106f1e1a0(*)  
+      7106e71888 b8 f1 80        addr       PTR_~Allocator_710680f1b8                        = 7102b82630
+                 06 71 00 
+                 00 00
+                             compressionStrings                              XREF[6]:     Entry Point(*), 
+                                                                                          PageCompressionForString:7102b8f
+                                                                                          ArgCompletion_String<&compressio
+                                                                                          GetNewDiskPageCompression:7102b8
+                                                                                          GetNewDiskPageCompression:7102b8
+                                                                                          7106f1e268(*)  
+      7106e71890 1c ad c3        addr       DAT_7105c3ad1c                                   = 6Eh
+                 05 71 00 
+                 00 00
+                             PTR_DAT_7106e71898                              XREF[4]:     PageCompressionForString:7102b8f
+                                                                                          ArgCompletion_String<&compressio
+                                                                                          GetNewDiskPageCompression:7102b8
+                                                                                          GetNewDiskPageCompression:7102b8
+      7106e71898 e2 97 dc        addr       DAT_7105dc97e2                                   = 44h
+                 05 71 00 
+                 00 00
+      7106e718a0 68 18 ed        addr       DAT_7105ed1868                                   = 44h    D
+                 05 71 00 
+                 00 00
+      7106e718a8 60 93 d2        addr       DAT_7105d29360                                   = 48h    H
+                 05 71 00 
+                 00 00
+      7106e718b0 b8 1a c0        addr       DAT_7105c01ab8                                   = 4Ah    J
+                 05 71 00 
+                 00 00
+      7106e718b8 00              ??         00h
+      7106e718b9 00              ??         00h
+      7106e718ba 00              ??         00h
+      7106e718bb 00              ??         00h
+      7106e718bc 00              ??         00h
+      7106e718bd 00              ??         00h
+      7106e718be 00              ??         00h
+      7106e718bf 00              ??         00h
+                             compressionForString                            XREF[4]:     Entry Point(*), 
+                                                                                          PageCompressionForString:7102b8f
+                                                                                          GetNewDiskPageCompression:7102b8
+                                                                                          7106f1e270(*)  
+      7106e718c0 01 00 00 00     undefined4 00000001h
+      7106e718c4 02              ??         02h
+      7106e718c5 00              ??         00h
+      7106e718c6 00              ??         00h
+      7106e718c7 00              ??         00h
+      7106e718c8 03              ??         03h
+      7106e718c9 00              ??         00h
+      7106e718ca 00              ??         00h
+      7106e718cb 00              ??         00h
+      7106e718cc 04              ??         04h
+      7106e718cd 00              ??         00h
+      7106e718ce 00              ??         00h
+      7106e718cf 00              ??         00h
+      7106e718d0 05              ??         05h
+      7106e718d1 00              ??         00h
+      7106e718d2 00              ??         00h
+      7106e718d3 00              ??         00h
+      7106e718d4 00              ??         00h
+      7106e718d5 00              ??         00h
+      7106e718d6 00              ??         00h
+      7106e718d7 00              ??         00h
+                             materialNames_WeaponsPlayer                     XREF[1]:     Entry Point(*)  
+      7106e718d8 30 33 ca        addr       s_models/weapons/pistol/pistol_bas_7105ca3330    = "models/weapons/pistol/pistol_
+                 05 71 00 
+                 00 00
+      7106e718e0 aa d2 c1        addr       s_models/weapons/shotgun/shotgun_b_7105c1d2aa    = "models/weapons/shotgun/shotgu
+                 05 71 00 
+                 00 00
+      7106e718e8 00              ??         00h
+      7106e718e9 00              ??         00h
+      7106e718ea 00              ??         00h
+      7106e718eb 00              ??         00h
+      7106e718ec 00              ??         00h
+      7106e718ed 00              ??         00h
+      7106e718ee 00              ??         00h
+      7106e718ef 00              ??         00h
+                             materialNames_MapPolarCore                      XREF[4]:     Entry Point(*), 
+                                                                                          PreloadVMTRsForMap:7102b91264(R), 
+                                                                                          PreloadVMTRsForMap:7102b912ac(R), 
+                                                                                          7106f1e288(*)  
+      7106e718f0 d2 25 bb        addr       s_models/mapobjects/prop/hell/summ_7105bb25d2    = "models/mapobjects/prop/hell/s
+                 05 71 00 
+                 00 00
+                             DAT_7106e718f8                                  XREF[1]:     PreloadVMTRsForMap:7102b912b8(R)  
+      7106e718f8 00 00 00        undefined8 0000000000000000h
+                 00 00 00 
+                 00 00
+                             PTR_s_PHYSICAL_PAGES_POOL_VMTR_7106e71900       XREF[1]:     ValidateCache:7102b98928(R)  
+      7106e71900 21 bd e7        addr       s_PHYSICAL_PAGES_POOL_VMTR_7105e7bd21            = "PHYSICAL_PAGES_POOL_VMTR"
+                 05 71 00 
+                 00 00
+      7106e71908 90 28 dc        addr       s_PHYSICAL_PAGES_POOL_UNIQUE_7105dc2890          = "PHYSICAL_PAGES_POOL_UNIQUE"
+                 05 71 00 
+                 00 00
+      7106e71910 3d 23 d2        addr       s_PHYSICAL_PAGES_POOL_UNIQUEVMTRS_7105d2233d     = "PHYSICAL_PAGES_POOL_UNIQUEVMT
+                 05 71 00 
+                 00 00
+      7106e71918 48 6d cb        addr       s_PHYSICAL_PAGES_POOL_SHARED_COUNT_7105cb6d48    = "PHYSICAL_PAGES_POOL_SHARED_CO
+                 05 71 00 
+                 00 00
+      7106e71920 69 bb ba        addr       s_PHYSICAL_PAGES_POOL_PRT_7105babb69             = "PHYSICAL_PAGES_POOL_PRT"
+                 05 71 00 
+                 00 00
+      7106e71928 b9 60 c1        addr       s_PHYSICAL_PAGES_POOL_MAX_7105c160b9             = "PHYSICAL_PAGES_POOL_MAX"
+                 05 71 00 
+                 00 00
+                             PTR_DAT_7106e71930                              XREF[1]:     StringForPageCompression:7102ba5
+      7106e71930 ab 1b c0        addr       DAT_7105c01bab                                   = 55h    U
+                 05 71 00 
+                 00 00
+      7106e71938 e2 97 dc        addr       DAT_7105dc97e2                                   = 44h
+                 05 71 00 
+                 00 00
+      7106e71940 68 18 ed        addr       DAT_7105ed1868                                   = 44h    D
+                 05 71 00 
+                 00 00
+      7106e71948 60 93 d2        addr       DAT_7105d29360                                   = 48h    H
+                 05 71 00 
+                 00 00
+      7106e71950 b8 1a c0        addr       DAT_7105c01ab8                                   = 4Ah    J
+                 05 71 00 
+                 00 00
+      7106e71958 00              ??         00h
+      7106e71959 00              ??         00h
+      7106e7195a 00              ??         00h
+      7106e7195b 00              ??         00h
+      7106e7195c 00              ??         00h
+      7106e7195d 00              ??         00h
+      7106e7195e 00              ??         00h
+      7106e7195f 00              ??         00h
+                             PTR_s_COMP_NONE_7106e71960                      XREF[1]:     EnumStringForPageCompression:710
+      7106e71960 cf fd ea        addr       s_COMP_NONE_7105eafdcf                           = "COMP_NONE"
+                 05 71 00 
+                 00 00
+      7106e71968 d2 5d bc        addr       s_COMP_DXT_7105bc5dd2                            = "COMP_DXT"
+                 05 71 00 
+                 00 00
+      7106e71970 14 c8 c9        addr       s_COMP_DCT_7105c9c814                            = "COMP_DCT"
+                 05 71 00 
+                 00 00
+      7106e71978 82 c5 ce        addr       s_COMP_HDP_7105cec582                            = "COMP_HDP"
+                 05 71 00 
+                 00 00
+      7106e71980 dc ae c4        addr       s_COMP_JXR_7105c4aedc                            = "COMP_JXR"
+                 05 71 00 
+                 00 00
+                             PTR_DAT_7106e71988                              XREF[2]:     FindTransitionAnimation:7102c355
+                                                                                          FindTransitionAnimation:7102c358
+      7106e71988 b4 70 cf        addr       DAT_7105cf70b4                                   = 30h
+                 05 71 00 
+                 00 00
+      7106e71990 63 ca dc        addr       DAT_7105dcca63                                   = 31h
+                 05 71 00 
+                 00 00
+      7106e71998 ed 19 d6        addr       DAT_7105d619ed                                   = 32h
+                 05 71 00 
+                 00 00
+      7106e719a0 a3 c1 b9        addr       DAT_7105b9c1a3                                   = 33h
+                 05 71 00 
+                 00 00
+      7106e719a8 f0 08 ea        addr       DAT_7105ea08f0                                   = 34h
+                 05 71 00 
+                 00 00
+      7106e719b0 25 a4 be        addr       DAT_7105bea425                                   = 35h    5
+                 05 71 00 
+                 00 00
+      7106e719b8 71 91 d9        addr       DAT_7105d99171                                   = 36h    6
+                 05 71 00 
+                 00 00
+      7106e719c0 a1 46 d1        addr       DAT_7105d146a1                                   = 37h    7
+                 05 71 00 
+                 00 00
+      7106e719c8 ee da d2        addr       DAT_7105d2daee                                   = 38h    8
+                 05 71 00 
+                 00 00
+      7106e719d0 74 84 de        addr       DAT_7105de8474                                   = 39h    9
+                 05 71 00 
+                 00 00
+      7106e719d8 a0 7f d9        addr       DAT_7105d97fa0                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e719e0 16 47 dd        addr       DAT_7105dd4716                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e719e8 6b eb c8        addr       DAT_7105c8eb6b                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e719f0 a3 f4 cf        addr       DAT_7105cff4a3                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e719f8 98 f7 ea        addr       DAT_7105eaf798                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e71a00 19 2e db        addr       DAT_7105db2e19                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e71a08 25 23 cc        addr       DAT_7105cc2325                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e71a10 72 c7 d8        addr       DAT_7105d8c772                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e71a18 67 6d df        addr       DAT_7105df6d67                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e71a20 84 be ce        addr       DAT_7105cebe84                                   = 31h    1
+                 05 71 00 
+                 00 00
+      7106e71a28 ea 19 d6        addr       DAT_7105d619ea                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a30 d9 43 ee        addr       DAT_7105ee43d9                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a38 43 54 e9        addr       DAT_7105e95443                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a40 4d 69 e4        addr       DAT_7105e4694d                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a48 21 ed c8        addr       DAT_7105c8ed21                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a50 88 11 ea        addr       DAT_7105ea1188                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a58 e1 b4 ba        addr       DAT_7105bab4e1                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a60 dd 56 bc        addr       DAT_7105bc56dd                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a68 50 69 e4        addr       DAT_7105e46950                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a70 25 79 da        addr       DAT_7105da7925                                   = 32h    2
+                 05 71 00 
+                 00 00
+      7106e71a78 c8 d5 eb        addr       DAT_7105ebd5c8                                   = 33h    3
+                 05 71 00 
+                 00 00
+      7106e71a80 0f 07 e1        addr       DAT_7105e1070f                                   = 33h    3
+                 05 71 00 
+                 00 00
+                             PTR_DAT_7106e71a88                              XREF[1]:     Init:7102c44f68(R)  
+      7106e71a88 88 2d d4        addr       DAT_7105d42d88                                   = 4Ch    L
+                 05 71 00 
+                 00 00
+      7106e71a90 67 15 ed        addr       s_Medium_7105ed1567                              = "Medium"
+                 05 71 00 
+                 00 00
+      7106e71a98 66 c0 e9        addr       DAT_7105e9c066                                   = 48h    H
+                 05 71 00 
+                 00 00
+      7106e71aa0 33 27 bb        addr       s_Ultra_7105bb2733                               = "Ultra"
+                 05 71 00 
+                 00 00
