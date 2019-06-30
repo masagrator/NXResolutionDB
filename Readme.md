@@ -67,10 +67,10 @@
 All uploaded codes are pseudocodes generated from disassembled executables using:
 
 Ghidra with Ghidra Switch Loader
-https://ghidra-sre.org/
-https://github.com/Adubbz/Ghidra-Switch-Loader
+>https://ghidra-sre.org/
+>https://github.com/Adubbz/Ghidra-Switch-Loader
 
 IDA Pro 7 with hthh_nxo64.py and HexRaysCodeXplorer64
-https://www.hex-rays.com/products/ida/
-https://github.com/hthh/switch-reversing/blob/master/loader/hthh_nxo64.py
-https://github.com/REhints/HexRaysCodeXplorer
+>https://www.hex-rays.com/products/ida/
+>https://github.com/hthh/switch-reversing/blob/master/loader/hthh_nxo64.py
+>https://github.com/REhints/HexRaysCodeXplorer
