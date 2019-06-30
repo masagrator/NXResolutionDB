@@ -83,4 +83,4 @@ IDA Pro 7 with hthh_nxo64.py and HexRaysCodeXplorer64
 
 References:
 
-```[1*]Hellblade uses Performance Thresholds for profiling game to 75%, 50%, 25%, but according to Digital Foundry never reaches the lowest one. 75% for docked and 50% (according to DF - 55,5%) for undocked are the most noticable.```
+>[1*]Hellblade uses Performance Thresholds for profiling game to 75%, 50%, 25%, but according to Digital Foundry never reaches the lowest one. 75% for docked and 50% (according to DF - 55,5%) for undocked are the most noticable.
