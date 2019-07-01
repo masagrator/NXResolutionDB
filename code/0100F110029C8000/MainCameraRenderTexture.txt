@@ -1,0 +1,20 @@
+PPtr<GameObject> m_GameObject
+    int m_FileID = 0
+    int64 m_PathID = 11433
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+    int m_FileID = 1
+    int64 m_PathID = 549
+string m_Name = ""
+RenderTextureSettings HighResolutionSettings
+    Int32 width = 1600
+    Int32 height = 900
+    RenderTextureFormat format = 0
+    Depth depth = 1
+    Msaa msaa = 0
+RenderTextureSettings LowResolutionSettings
+    Int32 width = 1120
+    Int32 height = 630
+    RenderTextureFormat format = 0
+    Depth depth = 1
+    Msaa msaa = 0
