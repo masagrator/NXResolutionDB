@@ -54,7 +54,7 @@
 | Wolfenstein 2: The New Colossus | 1280x720 | 1280x720 | Yes (50%) | [exefs 1.2](code/01009040091E0000)|
 | WWE 2K18 | 1280x720 | ? | Yes (D:75%) | Digital Foundry |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
-| Yooka-Laylee | 1600x900 | 1120x630 | No | Digital Foundry |
+| Yooka-Laylee | 1600x900 | 1120x630 | No | [MonoBehaviour](code/0100F110029C8000/MainCameraRenderTexture.txt) / Digital Foundry |
 | Yoshi's Crafted World | 1280x720 | 854x480 | Yes (80%) | .ini files 1.0.0 |
 
 >[%] - the lowest percentage of specified dimensions
