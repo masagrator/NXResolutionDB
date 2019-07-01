@@ -34,7 +34,7 @@
 | My Friend Pedro | 1920x1080 | 1280x720 | ? | [exefs](code/010031200B94C000/FUN_710210E500.c) |
 | Octopath Traveler | 1280x720 | 1024x576 | No | [.ini files 1.0.2](code/010057D006492000) |
 | Okami HD | 1920x1080 | 1280x720 | No | Digital Foundry |
-| Old Man's Journey | 1920x1080 | 1280x720 | ? | exefs 1.1.0 |
+| Old Man's Journey | 1920x1080 | 1280x720 | ? | [exefs 1.1.0](code/0100CE2007A86000/FUN_71007D2C70.c) |
 | Outlast | 1792x1008 | 1280x720 | No | Digital Foundry |
 | Outlast 2 | 1792x1008 | 1280x720 | No | Digital Foundry |
 | Portal Knights | 1920x1080 | 1280x720 | ? | [exefs](code/0100437004170000/initializeStep.c) |
