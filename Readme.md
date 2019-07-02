@@ -31,7 +31,7 @@
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
 | Monster Hunter XX | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Mortal Kombat 11 | 1280x720 | 854x480 | Yes (75%) | [Coalesced.ini](code/0100F2200C984000/Coalesced.ini) / Digital Foundry |
-| My Friend Pedro | 1920x1080 | 1280x720 | ? | [exefs](code/010031200B94C000/FUN_710210E500.c) |
+| My Friend Pedro | 1600x900 | 1280x720 | ? | Memory dump |
 | Octopath Traveler | 1280x720 | 1024x576 | No | [.ini files 1.0.2](code/010057D006492000) |
 | Okami HD | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | [exefs 1.1.0](code/0100CE2007A86000/FUN_71007D2C70.c) |
@@ -51,7 +51,7 @@
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
 | The Legend of Zelda: Breath of the Wild | 1600x900 | 1280x720 | Yes (90%) | Digital Foundry |
 | The Elder Scrolls V: Skyrim | 1600x900 | 1280x720 | Yes (W:70%) | [Skyrim.ini + exefs 1.1.14.534571](code/01000A10041EA000) |
-| Wasteland 2 | 1120x630 | 896x504 | ? | Memory Dump |
+| Wasteland 2 | 1120x630 | 896x504 | ? | Memory dump |
 | Wolfenstein 2: The New Colossus | 1280x720 | 1280x720 | Yes (50%) | [exefs 1.2](code/01009040091E0000)|
 | WWE 2K18 | 1280x720 | ? | Yes (D:75%) | Digital Foundry |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
