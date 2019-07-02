@@ -23,7 +23,7 @@
 | Hellblade: Senua's Sacrifice | 1280x720 | 1280x720 | Yes (25%)[1*] | Digital Foundry / .ini files |
 | Hyrule Warriors | 1920x1080 | 1920x1080 | No | Digital Foundry |
 | I Am Setsuna | 1920x1080 | 1280x720 | No | Digital Foundry |
-| Inside | 1920x1080 | 1280x720 | ? | [exefs](code/0100D2D009028000/FUN_7101324CE0.c) |
+| Inside | 1792x1008 | 1280x720 | ? | Memory dump |
 | Irony Curtain: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
 | LA Noire | 1920x1080 | 1280x720 | Yes (W:75%) | Digital Foundry |
 | Lego City Undercover | 1920x1080 | ? | No | Digital Foundry |
