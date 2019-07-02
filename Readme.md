@@ -27,7 +27,7 @@
 | Irony Curtain: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
 | LA Noire | 1920x1080 | 1280x720 | Yes (W:75%) | Digital Foundry |
 | Lego City Undercover | 1920x1080 | ? | No | Digital Foundry |
-| Mages of Mystralia | 1920x1080 | 1280x720 | ? | [exefs 1.0.1](code/0100549008C9C000/FUN_7101D05400.c) |
+| Mages of Mystralia | 1280x720x60 | 1280x720x30 | ? | Pixel counting |
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
 | Monster Hunter XX | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Mortal Kombat 11 | 1280x720 | 854x480 | Yes (75%) | [Coalesced.ini](code/0100F2200C984000/Coalesced.ini) / Digital Foundry |
