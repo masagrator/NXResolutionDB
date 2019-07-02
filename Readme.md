@@ -33,6 +33,7 @@
 | Monster Hunter XX | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Mortal Kombat 11 | 1280x720 | 854x480 | Yes (75%) | [Coalesced.ini](code/0100F2200C984000/Coalesced.ini) / Digital Foundry |
 | My Friend Pedro | 1600x900 | 1280x720 | ? | Memory dump |
+| Observer | 1600x900 | 1280x720 | Yes (65%) | .ini files |
 | Octopath Traveler | 1280x720 | 1024x576 | No | [.ini files 1.0.2](code/010057D006492000) |
 | Okami HD | 1920x1080 | 1280x720 | No | Digital Foundry |
 | Old Man's Journey | 1920x1080 | 1280x720 | ? | [exefs 1.1.0](code/0100CE2007A86000/FUN_71007D2C70.c) |
