@@ -26,6 +26,7 @@
 | Inside | 1792x1008 | 1280x720 | ? | Memory dump |
 | Irony Curtain: From Matryoshka With Love | 1920x1080 | 1280x720 | No | exefs 1.0.0 |
 | LA Noire | 1920x1080 | 1280x720 | Yes (W:75%) | Digital Foundry |
+| Layers of Fear Legacy | 1920x1080 | 1280x720 | ? | Memory dump |
 | Lego City Undercover | 1920x1080 | ? | No | Digital Foundry |
 | Mages of Mystralia | 1280x720x60 | 1280x720x30 | ? | Pixel counting |
 | MONOPOLY for Nintendo Switch | 1920x1080 | 1280x720 | No | exefs |
