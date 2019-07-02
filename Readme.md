@@ -84,7 +84,7 @@ IDA Pro 7 with hthh_nxo64.py and HexRaysCodeXplorer64
 >
 >https://github.com/REhints/HexRaysCodeXplorer
 
-Informations from Unity games are highly experimental as resolution settings can be stored in exefs and romfs. 
+Informations from Unity games are highly experimental as resolution settings can be stored in exefs and romfs and they may don't have fixed values in any of files.
 
 References:
 
