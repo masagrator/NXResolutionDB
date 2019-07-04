@@ -54,6 +54,7 @@
 | The Legend of Zelda: Breath of the Wild | 1600x900 | 1280x720 | Yes (90%) | Digital Foundry |
 | The Elder Scrolls V: Skyrim | 1600x900 | 1280x720 | Yes (W:70%) | [Skyrim.ini + exefs 1.1.14.534571](code/01000A10041EA000) |
 | Wasteland 2 | 1120x630 | 896x504 | ? | Memory dump |
+| What Remains of Edith Finch | 1920x1080 | 1280x720 | Yes (D:66,6%, U:60%) | .ini files |
 | Wolfenstein 2: The New Colossus | 1280x720 | 1280x720 | Yes (50%) | [exefs 1.2](code/01009040091E0000)|
 | WWE 2K18 | 1280x720 | ? | Yes (D:75%) | Digital Foundry |
 | Xenoblade Chronicles 2 | 1280x720 | 960x540 | Yes (70%) | lib_nx.ini + exefs 2.0.2 |
