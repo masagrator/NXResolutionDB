@@ -50,6 +50,7 @@
 | Sid Meier's Civilization IV | 1920x1080 | 1280x720 | ? | [exefs](code/010044500C182000/FUN_71003495F8.c)
 | Super Bomberman R | 1280x720 | 960x540 | No | Digital Foundry |
 | Super Mario Bros U | 1920x1080 | 1280x720 | No | Digital Foundry |
+| Sword Art Online: Fatal Bullet | 1600x900 | 1280x720 | D:80%, U:75% | [.ini file](code/01005DF00DC26000/DefaultDeviceProfiles.ini) |
 | Terraria | 1920x1080 | 1280x720 | No | exefs 1.0.3 |
 | The Legend of Zelda: Breath of the Wild | 1600x900 | 1280x720 | Yes (90%) | Digital Foundry |
 | The Elder Scrolls V: Skyrim | 1600x900 | 1280x720 | Yes (W:70%) | [Skyrim.ini + exefs 1.1.14.534571](code/01000A10041EA000) |
