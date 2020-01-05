@@ -1,3 +1,5 @@
+It fullfilled it's purpose. Not more needed.
+
 | Game title | Docked mode resolution | Handheld mode resolution | Dynamic resolution? [%] | Source |
 | --- | --- | --- | --- | --- |
 | 1-2 Switch | 1920x1080 | 1280x720 | ? | [exefs](code/01000320000CC000/FUN_710021F234.c) |
